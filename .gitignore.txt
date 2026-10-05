@@ -1,0 +1,18 @@
+# API Key
+.env
+api_key.txt
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# Blender 临时文件
+*.blend1
+*.blend2
+
+# 大文件
+outputs/*.blend
+
+# 系统文件
+.DS_Store
+Thumbs.db
